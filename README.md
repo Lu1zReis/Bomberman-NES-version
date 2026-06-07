@@ -2,7 +2,7 @@
 ### This game was developed in C, using the Allegro library
 ---
 ### Initial idea 
-This project aims to recreate the classic NES game Bomberman. To develop it, I used the Allegro 5 game programming library.
+This project aims to recreate a simplified version of the classic NES game Bomberman. To develop it, I used the Allegro 5 game programming library.
 
 My initial idea was to start with a simple game that I enjoy, while also allowing me to apply many of the concepts and skills I have learned in Computer Science.
 Bomberman was a great choice because its top-down perspective simplifies movement and collision mechanics, allowing me to focus on game logic without having 
